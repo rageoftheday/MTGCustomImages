@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>CTOK</name>
+      <longname>Custom Tokens</longname>
+      <settype>Custom</settype>
+    </set>
+  </sets>
+  <cards>
+  </cards>
+</cockatrice_carddatabase>
