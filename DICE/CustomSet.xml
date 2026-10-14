@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>DCE</name>
+      <longname>DiceRolls</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>1</name>
+      <set rarity="common">DCE</set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Token</type>
+        <maintype>Creature</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>DICE 1</text>
+    </card>
+	    <card>
+      <name>2</name>
+      <set rarity="common">DCE</set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Token</type>
+        <maintype>Creature</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>DICE 2</text>
+    </card>
+	    <card>
+      <name>3</name>
+      <set rarity="common">DCE</set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Token</type>
+        <maintype>Creature</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>DICE 3</text>
+    </card>
+	    <card>
+      <name>4</name>
+      <set rarity="common">DCE</set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Token</type>
+        <maintype>Creature</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>DICE 4</text>
+    </card>
+	    <card>
+      <name>5</name>
+      <set rarity="common">DCE</set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Token</type>
+        <maintype>Creature</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>DICE 5</text>
+    </card>
+	    <card>
+      <name>6</name>
+      <set rarity="common">DCE</set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Token</type>
+        <maintype>Creature</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>DICE 6</text>
+    </card>
+	    <card>
+      <name>7</name>
+      <set rarity="common">DCE</set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Token</type>
+        <maintype>Creature</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>DICE 7</text>
+    </card>
+	    <card>
+      <name>8</name>
+      <set rarity="common">DCE</set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Token</type>
+        <maintype>Creature</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>DICE 8</text>
+    </card>
+	    <card>
+      <name>9</name>
+      <set rarity="common">DCE</set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Token</type>
+        <maintype>Creature</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>DICE 9</text>
+    </card>
+	    <card>
+      <name>10</name>
+      <set rarity="common">DCE</set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Token</type>
+        <maintype>Creature</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>DICE 10</text>
+    </card>
+	    <card>
+      <name>11</name>
+      <set rarity="common">DCE</set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Token</type>
+        <maintype>Creature</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>DICE 11</text>
+    </card>
+	    <card>
+      <name>12</name>
+      <set rarity="common">DCE</set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Token</type>
+        <maintype>Creature</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>DICE 12</text>
+    </card>
+	    <card>
+      <name>13</name>
+      <set rarity="common">DCE</set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Token</type>
+        <maintype>Creature</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>DICE 13</text>
+    </card>
+	    <card>
+      <name>14</name>
+      <set rarity="common">DCE</set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Token</type>
+        <maintype>Creature</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>DICE 14</text>
+    </card>
+	    <card>
+      <name>15</name>
+      <set rarity="common">DCE</set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Token</type>
+        <maintype>Creature</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>DICE 15</text>
+    </card>
+	    <card>
+      <name>16</name>
+      <set rarity="common">DCE</set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Token</type>
+        <maintype>Creature</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>DICE 16</text>
+    </card>
+	    <card>
+      <name>17</name>
+      <set rarity="common">DCE</set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Token</type>
+        <maintype>Creature</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>DICE 17</text>
+    </card>
+	    <card>
+      <name>18</name>
+      <set rarity="common">DCE</set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Token</type>
+        <maintype>Creature</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>DICE 18</text>
+    </card>
+	    <card>
+      <name>19</name>
+      <set rarity="common">DCE</set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Token</type>
+        <maintype>Creature</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>DICE 19</text>
+    </card>
+	    <card>
+      <name>20</name>
+      <set rarity="common">DCE</set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Token</type>
+        <maintype>Creature</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>DICE 20</text>
+    </card>
+	
+
+</cockatrice_carddatabase>
