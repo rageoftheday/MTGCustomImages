@@ -4,7 +4,7 @@
     <set>
       <name>DCE</name>
       <longname>DiceRolls</longname>
-      <settype></settype>
+      <settype>CUSTOM</settype>
     </set>
   </sets>
   <cards>
@@ -269,6 +269,18 @@
       <tablerow>1</tablerow>
       <text>DICE 20</text>
     </card>
-	
+	    <card>
+      <name>GG</name>
+      <set rarity="common">RNDM</set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Token</type>
+        <maintype>Creature</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>GG</text>
+    </card>	
 
 </cockatrice_carddatabase>
