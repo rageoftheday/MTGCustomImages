@@ -271,7 +271,7 @@
     </card>
 	    <card>
       <name>GG</name>
-      <set rarity="common">RNDM</set>
+      <set rarity="common">DCE</set>
       <prop>
         <colors></colors>
         <manacost>0</manacost>
