@@ -282,5 +282,31 @@
       <tablerow>1</tablerow>
       <text>GG</text>
     </card>	
+	    <card>
+      <name>PP</name>
+      <set rarity="common">DCE</set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Token</type>
+        <maintype>Creature</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Pass Priority</text>
+    </card>
+	    <card>
+      <name>RESP</name>
+      <set rarity="common">DCE</set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Token</type>
+        <maintype>Creature</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Response</text>
+    </card>	
 
 </cockatrice_carddatabase>
