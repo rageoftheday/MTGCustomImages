@@ -10,4 +10,17 @@
     ],
     "count": "1"
   }
+{
+  "Thopter": {
+    "image": "Thopter.jpeg",
+    "type": "Token — Thopter",
+    "text": "Flying",
+    "colors": "",
+    "pt": "1/1",
+    "creator": [
+      "Saheeli, Jewel of Avishkar"
+    ],
+    "count": "1"
+  }
+
 }
