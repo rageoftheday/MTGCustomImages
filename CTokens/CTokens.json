@@ -9,11 +9,10 @@
       "Zagorka, Mother of Sanctum"
     ],
     "count": "1"
-  }
-{
+  },
   "Thopter": {
-    "image": "Thopter.jpeg",
-    "type": "Token — Thopter",
+    "image": "Thopter Token_1.jpg",
+    "type": "Token Artifact Creature — Thopter",
     "text": "Flying",
     "colors": "",
     "pt": "1/1",
@@ -22,5 +21,4 @@
     ],
     "count": "1"
   }
-
 }
