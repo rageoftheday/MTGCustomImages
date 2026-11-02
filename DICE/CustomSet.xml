@@ -321,5 +321,32 @@
       <tablerow>1</tablerow>
       <text>Thinking</text>
     </card>		
-
+    </card>	
+	    <card>
+      <name>BRB</name>
+      <set rarity="common">DCE</set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Token</type>
+        <maintype>Creature</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>BRB</text>
+    </card>		
+    </card>	
+	    <card>
+      <name>No Response</name>
+      <set rarity="common">DCE</set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Token</type>
+        <maintype>Creature</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>No Response</text>
+    </card>	
 </cockatrice_carddatabase>
