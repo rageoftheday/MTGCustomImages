@@ -21,6 +21,17 @@
                                       ],
                           "count":  "1"
                       },
+    "Wiggly Giggly":  {
+                          "image":  "Wiggly Giggly.jpg",
+                          "type":  "Token Creature — Giggler",
+                          "text":  "Stoned",
+                          "colors":  "",
+                          "pt":  "1/1",
+                          "creator":  [
+
+                                      ],
+                          "count":  "1"
+                      },
     "BRB":  {
                 "image":  "BRB.jpg",
                 "type":  "Token",
